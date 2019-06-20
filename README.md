@@ -1,5 +1,4 @@
-#Projeto Cotações
-#Para executar é necessário executar as dependências
+#Projeto Cotações - Para executar é necessário executar as dependências
 
 #Baixando as dependências
 `npm i`
